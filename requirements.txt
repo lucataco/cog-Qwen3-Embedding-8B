@@ -1,0 +1,10 @@
+# Dependencies for Qwen3-Embedding-8B model
+
+# Core ML dependencies
+torch>=2.4.0
+transformers
+accelerate
+safetensors
+sentence-transformers
+numpy>=1.24.0
+tokenizers
