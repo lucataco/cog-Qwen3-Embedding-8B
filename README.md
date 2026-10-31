@@ -258,3 +258,9 @@ For detailed information about the model's capabilities, training data, and eval
   url={https://huggingface.co/Qwen/Qwen3-Embedding-8B}
 }
 ```
+
+## License
+
+The code in this repository is licensed under the [Apache License 2.0](LICENSE).
+
+The model weights are not covered by this license. [Qwen/Qwen3-Embedding-8B](https://huggingface.co/Qwen/Qwen3-Embedding-8B) is released under the [Apache 2.0](https://huggingface.co/Qwen/Qwen3-Embedding-8B/blob/main/LICENSE) license.
